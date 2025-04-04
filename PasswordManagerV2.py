@@ -1,9 +1,3 @@
-'''
-Changes from V1:
--Added delete password feature
--User chooses master password for the first time
-'''
-
 from cryptography.fernet import Fernet
 import base64
 import os
